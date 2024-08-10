@@ -6,3 +6,6 @@ Compare the installed version number (if any) to the version listed in the [chan
 To update your CLI, follow the instructions on the Install Page - be sure to check the instructions if moving from V1 to V2.
 
 [AWS CLI Install Page](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
+
+On Windows 10 and later, the following command should install the latest version of the CLI:  
+`winget install -e --id Amazon.AWSCLI`
