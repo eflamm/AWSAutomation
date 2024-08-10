@@ -17,6 +17,16 @@ aws sagemaker list-domains --region $region
         }
     ]
 }
-#>
-# Delete a domain
+#>  
+#List apps in a domain
+$domain_id="d-xb6rg4xdpeq7"
+aws --region $region sagemaker list-apps --domain-id-equals $domain_id
+
+#List user profiles in a domain
+aws --region $region sagemaker list-user-profiles --domain-id-equals $domain_id
+
+#List shared spaces in the domain
+aws --region $region sagemaker list-spaces     --domain-id $domain_id
+
+# Delete a domain (need to delete apps, users, spaces first)
 # https://docs.aws.amazon.com/sagemaker/latest/dg/gs-studio-delete-domain.html
