@@ -1,6 +1,7 @@
 # This is the Readme.md file for the Sagemaker folder  
 ## SageMaker Documentation  
 [first-time-user](https://docs.aws.amazon.com/sagemaker/latest/dg/whatis.html#first-time-user)  
+[SageMaker QuickStart](https://docs.aws.amazon.com/sagemaker/latest/dg/onboard-quick-start.html)
 
 Use the AWS CLI to create a presigned domain url and open it in the default browser  
 [Reference to SageMaker Developer's Guide](https://docs.aws.amazon.com/sagemaker/latest/dg/studio-updated-launch.html)  
