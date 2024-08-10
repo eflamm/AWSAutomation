@@ -3,6 +3,8 @@
 [first-time-user](https://docs.aws.amazon.com/sagemaker/latest/dg/whatis.html#first-time-user)  
 [SageMaker QuickStart](https://docs.aws.amazon.com/sagemaker/latest/dg/onboard-quick-start.html)
 
+> A domain consists of a list of authorized users, configuration settings, and an Amazon Elastic File System (Amazon EFS) volume. 
+
 Use the AWS CLI to create a presigned domain url and open it in the default browser  
 [Reference to SageMaker Developer's Guide](https://docs.aws.amazon.com/sagemaker/latest/dg/studio-updated-launch.html)  
 
