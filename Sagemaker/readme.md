@@ -1,4 +1,4 @@
-# This is the Readme.md file for the Sagemaker folder  
+# eflamm/AWSAutomation/Sagemaker - using Sagemaker Studio to host Jupyter notebooks for Hands-on Labs  
 ## SageMaker Documentation  
 [first-time-user](https://docs.aws.amazon.com/sagemaker/latest/dg/whatis.html#first-time-user)  
 [SageMaker QuickStart](https://docs.aws.amazon.com/sagemaker/latest/dg/onboard-quick-start.html)
