@@ -11,3 +11,4 @@ Use the AWS CLI to create a presigned domain url and open it in the default brow
 Using AWS CLI with SageMaker  
 [CLI Command Reference](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/index.html)
 
+[Sagemaker API and SDK Overview](https://docs.aws.amazon.com/sagemaker/latest/dg/api-and-sdk-reference-overview.html)
