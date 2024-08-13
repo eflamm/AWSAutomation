@@ -1,1 +1,1 @@
-#Configure, restore, backup, and delete MySQL database
+# Configure, restore, backup, and delete MySQL database
