@@ -6,3 +6,4 @@ In order to grant access to any of the Bedrock models, I had to switch to US-Eas
 [Bedrock Marketing Page - Customer Videos and Use Cases](https://aws.amazon.com/bedrock/)  
 
 [LangChain Documentation Home Page](https://python.langchain.com/v0.2/docs/introduction/)  
+[Blog Post: Responsible AI](https://www.amazon.science/blog/responsible-ai-in-the-generative-era)  
